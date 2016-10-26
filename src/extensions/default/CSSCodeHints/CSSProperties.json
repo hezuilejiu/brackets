@@ -56,7 +56,7 @@
     "border-top-width":            {"values": ["medium", "thin", "thick", "inherit"]},
     "border-width":                {"values": ["medium", "thin", "thick", "inherit"]},
     "box-decoration-break":        {"values": []},
-    "box-shadow":                  {"values": []},
+    "box-shadow":                  {"values": ["color","inset","none","!important"]},
     "box-sizing":                  {"values": ["border-box", "content-box", "padding-box", "inherit"]},
     "bottom":                      {"values": ["auto", "inherit"]},
     "break-after":                 {"values": ["always", "auto", "avoid", "avoid-column", "avoid-page", "avoid-region", "column", "left", "page", "region", "right"]},
